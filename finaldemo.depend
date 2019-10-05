@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1495353295 source:/home/harika/finaldemo/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<GL/glut.h>
+	<string.h>
+	<unistd.h>
+	<math.h>
+
